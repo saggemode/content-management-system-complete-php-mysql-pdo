@@ -1,0 +1,70 @@
+html,
+body {
+    height: 100%;
+}
+
+
+
+body {
+    padding-top: 60px;
+}
+
+.btn-sm {
+    font-size: 0.700rem;
+    width: 38px;
+}
+
+.huge {
+    font-size: 40px;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.body-section {
+    padding-bottom: 70px;
+}
+
+/*footer {*/
+    /*background: #0062cc;*/
+    /*color: white;*/
+    /*height: 50px;*/
+    /*line-height: 50px;*/
+    /*font-size: 12px;*/
+    /*position: absolute;*/
+    /*bottom: 0;*/
+    /*width: 100%;*/
+/*}*/
+
+/*footer a {*/
+    /*color: white;*/
+    /*font-weight: bold;*/
+/*}*/
+
+/*footer a:hover {*/
+    /*color: white;*/
+    /*text-decoration: underline;*/
+/*}*/
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login input {
+    margin-bottom: 10px;
+}
+
+.login .form-control {
+    background-color: #eaeaea;
+}
+
+.login .btn {
+    background-color: #008dde;
+}
+
+.login h4 {
+    color: #888;
+}
