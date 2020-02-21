@@ -1,0 +1,11 @@
+create a database in phpmyadmin using xampp, lampp
+with name cs_db
+then import cs_db.sql to your database
+
+admin username : admin
+password: 123
+
+copy the cms2 folder to 
+/opt/lampp/htdocs : if you are using linux
+
+type localhost/cms2 in your browser
